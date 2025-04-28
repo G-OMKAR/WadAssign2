@@ -1,0 +1,22 @@
+springboot 
+
+spring boot is a java framework that make it easier to create and run java applications
+
+it simplifies the configuration and set a process allowing developers to focus more on writing code for their application
+
+it is a guide that covers both basic and advance concept of the springframework, it is the design for binger as well as professional
+ its include basic to advance topic of springboot life, basic of spring , springboot cover , springboot rest api
+ , springboot myPhone services and springboot databases
+
+What is spring boot
+  -> springboot is an open source of java framework , use to create microservice
+  -> it provide faster way to set A and easier and run both simple web based application
+  -> it is a combination of spring framework and embedded servers
+  -> the main goal of springboot is to reduce development , unit test and integration test time in springboot
+  -> their is no requirement for xml configuration
+
+why to learn springboot
+ -> understanding of java syntax and core concept such as , classes , object , inheritance , interface and      exception handling
+
+what are the required for learning springboot 
+-> require basic understanding of spring framework , knowledge of web technology and family relate with maven project
