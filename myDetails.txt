@@ -1,0 +1,4 @@
+name : omkar gaikwad
+class : TE-it-A
+subject : Web Application Development
+info : my name is omkar dayaram gaikwad , i am 20 years old and persuing BE in information technology
